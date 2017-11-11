@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\eHire\hire\hire\bin\hire.dll.config
+C:\inetpub\wwwroot\eHire\hire\hire\bin\hire.dll
+C:\inetpub\wwwroot\eHire\hire\hire\bin\hire.pdb
+C:\inetpub\wwwroot\eHire\hire\hire\bin\hire.xml
+C:\inetpub\wwwroot\eHire\hire\hire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\eHire\hire\hire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\eHire\hire\hire\obj\Debug\hire.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\eHire\hire\hire\obj\Debug\hire.Resources.resources
+C:\inetpub\wwwroot\eHire\hire\hire\obj\Debug\hire.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\eHire\hire\hire\obj\Debug\hire.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\eHire\hire\hire\obj\Debug\hire.dll
+C:\inetpub\wwwroot\eHire\hire\hire\obj\Debug\hire.xml
+C:\inetpub\wwwroot\eHire\hire\hire\obj\Debug\hire.pdb
